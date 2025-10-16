@@ -2,13 +2,13 @@
 
 ## An Introduction to the Process Grammar Model (PGM)
 
-Last change: 2025/10/16-20:16:28.
+Last change: 2025/10/16-22:02:54.
 
 By Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo, Japan
 
 ## Table of Contents
 
-- [Preface](#preface)
+- [Preface](contents/preface.md)[ja](contents/preface-ja.md)
 - [Part I: Foundations of the Process Grammar Model](#part-i-foundations-of-the-process-grammar-model)
   - [Chapter 1: The Need for a New Grammar Model](#chapter-1-the-need-for-a-new-grammar-model)
   - [Chapter 2: Theoretical Background](#chapter-2-theoretical-background)
