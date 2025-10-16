@@ -1,0 +1,15 @@
+# unpublished items
+.DS_Store
+unpublished/
+
+
+# TeX / Pandoc artifacts
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+
+# Editor swap files
+*~
+*.swp

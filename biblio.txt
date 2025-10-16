@@ -1,0 +1,30 @@
+    D. Biber, Variation across speech and writing, Cambridge University Press, Cambridge, 1988.
+    G. H. J. Drieman,“Differences between written and spoken language: An exploratory study,” Acta. Psy chologica, vol.20, pp. 36 58, 1962.
+    R. C. O’Donnell,“Syntactic differences between speech and writing,” American Speech, vol.49, pp. 102-110, 1974.
+    B. Kroll,“Ways communicators encode propositions in spoken and written English: A look at subordina tion and coordination,” in Discourse across time and space, ed. E. O. Keenan and T. Bennett, pp. 69108, University of Southern California, Los Angeles, 1977.
+    W. Chafe,“Integration and involvement in speaking, writing, and oral literature,” in Spoken and writ ten language: Exploring orality and literacy, ed. D. Tannen, pp. 35-54, Ablex, Norwood, 1982.
+    F. Akinnaso,“On the differences between spoken and written language,” Language and Speech, vol.25, pp. 97-125, 1982.
+    D. Tanner,“The oral/literate continuum in dis course,” in Spoken and written language: Exploring orality and literacy, ed. D. Tannen, pp. 1-16, Ablex, Norwood, 1982.
+    D. Tannen,“Relative focus on involvement in oral and written discourse,” in Literacy, language and learning: The nature and consequences of reading and writing, ed. D. R. Olson, N. Torrance, and A. Hildyard, pp. 124-147, Cambridge University Press, Cambridge, 1985.
+    J. A. DeVito,“A linguistic analysis of spoken and written language,” Communication Studies, vol.18, no.2, pp. 81-85, 1967.
+    D. Olson,“From utterance to text: The bias of lan guage in speech and writing,” Harvard Educational Review, vol.47, no.3, pp. 257-281, 1977.
+    J. Blankenship,“The influence of mode, sub-mode, and speaker predilection on style,” Communication Monographs, vol.41, no.2, pp. 85-118, 1974.
+    O. K. Brown and G. Yule: Discourse Analysis, Cambridge University Press, Cambridge, 1983.
+    M. A. K. Halliday,“Differences between spoken and written language: Some implications for literacy teaching,” Proc.4th Australian reading conference, Adelaide, Australia, vol.2, pp. 37-52, 1979.
+    M. E. Poole and T. W. Field,“A comparison of oral and written code elaborations,” Language and Speech, vol.19, no.4, pp. 305-311, 1976.
+    J. Blankenship,“A linguistic analysis of oral and written style,” Quarterly Journal of Speech, vol.48, pp. 419-422, 1962.
+    D. Biber and C. Vasquez,“Writing and Speaking,” in Handbook of rocarc. h on writing, ed. C. Bazerman, pp. 535-548, Routledge, Oxford, 2007.
+    K. Beaman,“Coordination and subordination revis ited: Syntactic complexity in spoken and written nar rative discourse,” in Spoken and written language, Exploring orality and literacy, ed. D. Tannem, pp. 45-80, Ablex, Norwood, 1984.
+    M. J. Pickering and H. P. Branigan,“The representa tion of verbs: Evidence from syntactic priming in lan guage production,” J. Memory and Language, vol.39, no.4, pp. 633-651, 1998.
+    J. R. Hayes and L. S. Flower,“Writing research and the writer,” American Psychologist, vol.41, no.10, pp. 1106-1113, 1986.
+    J. R. Shelton and A. Caramazza,“Deficits in lexical and semantic processing: Implications for models of normal language,” Psychonomic Bulletin & Review, vol.6, no.1, pp. 5-27, 1999.
+    A. A. Cleland and M. J. Pickering,“Do writing and speaking employ the same syntactic representa tions?,” J. Memory and Language, vol.54, no.2, pp. 185-198, 2006.
+    根本進, “クリちゃん,”朝日新聞. 夕刊, 昭和30年4月28日掲載
+    工藤 拓,“MeCab: YetAnotherPart-of-Speech and Morphological Analyzer,”,http://mecab.sourceforge.net, 参照March30, 2011.
+    益岡隆志, 田窪行則, 基礎目本語文法.. 改訂版, くろしお出版, 東京, 1992.
+    D. I. Holmes,“Authorship Attributes,” Computers and Humanities, vol.28, no.2, pp. 87-106, 1994.
+    J. Cohen,“A coefficient of agreement for nomi nal scales,” Educational and Psychological Measure ment, vol.20, no.1, pp. 37-46, 1960.
+    R. Bakeman and J. M. Gottman, Observing In teraction, 2nd ed., Cambridge University Press, Cambridge, 1997.
+    小磯花絵, 小木曽智信, 小椋秀樹, 宮内佐夜香, “コーパスに基づく多様なジャンルの文体比較,”言語処理学会第15回年次大会発表論文集, vol, 15, pp. 594597, 2009.
+    樺島忠夫, 日本語はどう変わるか, 岩波新書, 岩波書店, 1981.
+    W. Org, Orality and literacy: The technologizing of the word, Methuen, London, 1982.
