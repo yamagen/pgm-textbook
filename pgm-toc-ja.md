@@ -2,13 +2,13 @@
 
 ## **序章　文法を時間に戻す**
 
-- 1. 研究の背景: 生成文法以降の言語理論の問題点
-     [md-ja](contents/pgm-background-ja.md)
-- 2. 即時文法と調整文法: 二重過程理論との連携
-     [md-ja](contents/pgm-immediate-adjustive-ja.md)
-- 3. 「文法」は体系ではなく過程 [md-ja](contents/pgm-linear-sound-ja.md)
-- 4. 本書の目的と方法: 記述言語学から行動的文法学へ
-     [md-ja](contents/pgm-objectives-methods-ja.md)
+1. 研究の背景: 生成文法以降の言語理論の問題点
+   [ja](contents/pgm-background-ja.md)
+1. 即時文法と調整文法: 二重過程理論との連携
+   [ja](contents/pgm-immediate-adjustive-ja.md)
+1. 「文法」は体系ではなく過程 [ja](contents/pgm-linear-sound-ja.md)
+1. 本書の目的と方法: 記述言語学から行動的文法学へ
+   [ja](contents/pgm-objectives-methods-ja.md)
 
 ## **第Ⅰ部　即時文法: 発話の瞬間に生まれる構文**
 
