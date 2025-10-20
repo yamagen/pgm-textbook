@@ -7,7 +7,7 @@
 1. 即時文法と調整文法: 二重過程理論との連携
    [ja](contents/pgm-immediate-adjustive-ja.md)
 1. 「文法」は体系ではなく過程 [ja](contents/pgm-linear-sound-ja.md)
-1. 本書の目的と方法: 記述言語学から行動的文法学へ
+1. 本書の目的と方法: 記述言語学からプロセス文法モデルへ
    [ja](contents/pgm-objectives-methods-ja.md)
 
 ## **第Ⅰ部　即時文法: 発話の瞬間に生まれる構文**
