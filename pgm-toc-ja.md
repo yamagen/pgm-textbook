@@ -41,7 +41,7 @@
 1. システム2的調整: 熟慮・修正・検証のメカニズム
 1. 言い間違い・修正・ためらいの分析
 1. 「意図的発話」と「発話の後処理」
-1. 調整のいくつかの言語モデル [モデル]("contents/diary-register-notes-ja.md")と[表現](contents/diary-register-patterns-ja.md)
+1. 調整のいくつかの言語モデル: [モデル](./contents/diary-register-notes-ja.md)と[表現](contents/diary-register-patterns-ja.md)
 
 ### 第5章　形態・語彙における調整
 
