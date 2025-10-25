@@ -2,7 +2,7 @@
 
 ## An Introduction to the Process Grammar Model (PGM)
 
-Last change: 2025/10/20-18:27:07.
+Last change: 2025/10/22-08:56:58.
 
 By Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo, Japan
 
@@ -13,5 +13,4 @@ By Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo, Japan
 
 ## LICENSE
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).

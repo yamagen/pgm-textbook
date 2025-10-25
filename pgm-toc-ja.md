@@ -2,22 +2,24 @@
 
 ## **序章　文法を時間に戻す**
 
-1. 研究の背景: 生成文法以降の言語理論の問題点
-   [ja](contents/pgm-background-ja.md)
-1. 即時文法と調整文法: 二重過程理論との連携
-   [ja](contents/pgm-immediate-adjustive-ja.md)
+1. 研究の背景: 生成文法以降の言語理論の問題点 [ja](contents/pgm-background-ja.md)
+1. 即時文法と調整文法: 二重過程理論との連携 [ja](contents/pgm-immediate-adjustive-ja.md)
 1. 「文法」は体系ではなく過程 [ja](contents/pgm-linear-sound-ja.md)
-1. 本書の目的と方法: 記述言語学からプロセス文法モデルへ
-   [ja](contents/pgm-objectives-methods-ja.md)
+1. 本書の目的と方法: 記述言語学からプロセス文法モデルへ [ja](contents/pgm-objectives-methods-ja.md)
 
 ## **第Ⅰ部　即時文法: 発話の瞬間に生まれる構文**
 
 ### 第1章　音声と動作: 即時文法の最前線
 
-1. 感情・反応・呼吸としての言語
-1. 「あ」「お」「ねえ」「うん」などの即時的発話
-1. 喚体句・感動詞・相槌の構文論的位置づけ
+1. 感情・反応・呼吸としての言語 [ja](contents/pgm-emotion-reaction-breathing-ja.md)
+1. 即時的発話表現の生成と役割 [ja](contents/pgm-immediate-utterances-ja.md)
+1. 喚体句・感動詞・相槌の構文論的位置づけ [ja](contents/pgm-exclamations-interjections-ja.md)
+
+このセクションでは、喚体句、感動詞、相槌といった即時的発話表現の構文論的位置づけを検討します。これらの表現が文法体系内でどのように機能し、発話の流れにどのような影響を与えるかを考察します。
+
 1. 即時文法における音韻的自動化
+
+最後に、即時文法における音韻的自動化のプロセスを探ります。発話の瞬間における音韻的なパターンがどのように自動的に生成され、言語の流暢さや自然さに寄与しているかを分析します。
 
 ### 第2章　形態と連鎖: 瞬間の結合ルール
 
@@ -79,8 +81,8 @@
 1. PGMにおける「親和性」とは何か
 1. 外国語学習・言語教育における負荷軽減
 1. 行動心理との共通構造
-1. 語形選択と呼吸: プロセス文法による日本語教育の展開
-1. [pgm-gokeiselection-ja.md](contents/pgm-gokeiselection-ja.md)
+1. 語形選択と呼吸: プロセス文法による日本語教育の展開(ケーススタディによる検証)
+1. [gokei sentaku](contents/pgm-gokeiselection-ja.md)
 1. 学習者が「語形を選ぶ」段階＝即時文法の自動化
 1. 呼吸・間合い・姿勢としての文法教育
 1. 「文型」から「行為型」への転換
@@ -105,6 +107,8 @@
 1. LLM（大規模言語モデル）における即時的生成と調整的制御
 1. プロセス文法モデルの計算的実装の可能性
 1. 「生成AIにおける即時文法」という新しいパラダイム
+
+- [transformerとpgmの関係](contents/pgm-transformer-relationship-ja.md)
 
 ## **終章　時間の中に生きる文法**
 
