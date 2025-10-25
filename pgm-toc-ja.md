@@ -41,7 +41,7 @@
 1. システム2的調整: 熟慮・修正・検証のメカニズム
 1. 言い間違い・修正・ためらいの分析
 1. 「意図的発話」と「発話の後処理」
-1. 調整のいくつかの言語モデル: [モデル-ja]("contents/diary-register-notes-ja.md"); [表現-ja](contents/diary-register-patterns-ja.md)
+1. 調整のいくつかの言語モデル [モデル-ja]("contents/diary-register-notes-ja.md"); [表現-ja](contents/diary-register-patterns-ja.md)
 
 ### 第5章　形態・語彙における調整
 
@@ -76,8 +76,7 @@
 1. PGMにおける「親和性」とは何か
 1. 外国語学習・言語教育における負荷軽減
 1. 行動心理との共通構造
-1. 語形選択と呼吸: プロセス文法による日本語教育の展開(ケーススタディによる検証)
-1. [gokei sentaku](contents/pgm-gokeiselection-ja.md)
+1. 語形選択と呼吸: プロセス文法による日本語教育の展開(ケーススタディによる検証) [gokei sentaku](contents/pgm-gokeiselection-ja.md)
 1. 学習者が「語形を選ぶ」段階＝即時文法の自動化
 1. 呼吸・間合い・姿勢としての文法教育
 1. 「文型」から「行為型」への転換
