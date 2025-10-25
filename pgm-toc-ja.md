@@ -2,18 +2,18 @@
 
 ## **序章　文法を時間に戻す**
 
-1. 研究の背景: 生成文法以降の言語理論の問題点 [背景-ja](contents/pgm-background-ja.md)
-1. 即時文法と調整文法: 二重過程理論との連携 [即時と調整-ja](contents/pgm-immediate-adjustive-ja.md)
-1. 「文法」は体系ではなく過程 [線状性-ja](contents/pgm-linear-sound-ja.md)
-1. 本書の目的と方法: 記述言語学からプロセス文法モデルへ [目的-ja](contents/pgm-objectives-methods-ja.md)
+1. 研究の背景: 生成文法以降の言語理論の問題点 [背景](contents/pgm-background-ja.md)
+1. 即時文法と調整文法: 二重過程理論との連携 [即時と調整](contents/pgm-immediate-adjustive-ja.md)
+1. 「文法」は体系ではなく過程 [線状性](contents/pgm-linear-sound-ja.md)
+1. 本書の目的と方法: 記述言語学からプロセス文法モデルへ [目的](contents/pgm-objectives-methods-ja.md)
 
 ## **第Ⅰ部　即時文法: 発話の瞬間に生まれる構文**
 
 ### 第1章　音声と動作: 即時文法の最前線
 
-1. 感情・反応・呼吸としての言語 [感情-ja](contents/pgm-emotion-reaction-breathing-ja.md)
-1. 即時的発話表現の生成と役割 [発話-ja](contents/pgm-immediate-utterances-ja.md)
-1. 喚体句・感動詞・相槌の構文論的位置づけ [喚体句-ja](contents/pgm-exclamations-interjections-ja.md)
+1. 感情・反応・呼吸としての言語 [感情](contents/pgm-emotion-reaction-breathing-ja.md)
+1. 即時的発話表現の生成と役割 [発話](contents/pgm-immediate-utterances-ja.md)
+1. 喚体句・感動詞・相槌の構文論的位置づけ [喚体句他](contents/pgm-exclamations-interjections-ja.md)
 1. 即時文法における音韻的自動化
 
 最後に、即時文法における音韻的自動化のプロセスを探ります。発話の瞬間における音韻的なパターンがどのように自動的に生成され、言語の流暢さや自然さに寄与しているかを分析します。
@@ -41,7 +41,7 @@
 1. システム2的調整: 熟慮・修正・検証のメカニズム
 1. 言い間違い・修正・ためらいの分析
 1. 「意図的発話」と「発話の後処理」
-1. 調整のいくつかの言語モデル [モデル-ja]("contents/diary-register-notes-ja.md"); [表現-ja](contents/diary-register-patterns-ja.md)
+1. 調整のいくつかの言語モデル [モデル]("contents/diary-register-notes-ja.md")と[表現](contents/diary-register-patterns-ja.md)
 
 ### 第5章　形態・語彙における調整
 
@@ -76,7 +76,7 @@
 1. PGMにおける「親和性」とは何か
 1. 外国語学習・言語教育における負荷軽減
 1. 行動心理との共通構造
-1. 語形選択と呼吸: プロセス文法による日本語教育の展開(ケーススタディによる検証) [gokei sentaku](contents/pgm-gokeiselection-ja.md)
+1. 語形選択と呼吸: プロセス文法による日本語教育の展開(ケーススタディによる検証) [語形選択](contents/pgm-gokeiselection-ja.md)
 1. 学習者が「語形を選ぶ」段階＝即時文法の自動化
 1. 呼吸・間合い・姿勢としての文法教育
 1. 「文型」から「行為型」への転換
